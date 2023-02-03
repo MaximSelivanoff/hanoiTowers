@@ -18,9 +18,5 @@ namespace Hanoi_Towers
             InitializeComponent();
             this.menu = new Game_menu(panel2, button1, button2, domainUpDown1);
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-        }
     }
 }
